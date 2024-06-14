@@ -11,7 +11,7 @@ function Hero() {
       >
         Understand Your Tasks!
 
-        <span className="sm:block"> Manage you Tasks! </span>
+        <span className="sm:block"> Manage you Tasks!... </span>
       </h1>
 
       <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">

@@ -13,27 +13,27 @@ function Header() {
       <nav aria-label="Global" className="hidden md:block">
         <ul className="flex items-center gap-6 text-sm">
           <li>
-            <a className="text-gray-500 transition hover:text-gray-500/75" href="#"> Home </a>
+            <a className="text-gray-500 transition hover:text-gray-500/75" href="/"> Home </a>
           </li>
 
           <li>
-            <a className="text-gray-500 transition hover:text-gray-500/75" href="#"> Services </a>
+            <a className="text-gray-500 transition hover:text-gray-500/75" href="/services"> Services </a>
           </li>
 
           <li>
-            <a className="text-gray-500 transition hover:text-gray-500/75" href="#"> News </a>
+            <a className="text-gray-500 transition hover:text-gray-500/75" href="/blog"> Blog </a>
           </li>
 
           <li>
-            <a className="text-gray-500 transition hover:text-gray-500/75" href="#"> About Us </a>
+            <a className="text-gray-500 transition hover:text-gray-500/75" href="/news"> News </a>
           </li>
 
           <li>
-            <a className="text-gray-500 transition hover:text-gray-500/75" href="#"> Contact Us </a>
+            <a className="text-gray-500 transition hover:text-gray-500/75" href="/aboutus"> About Us </a>
           </li>
 
           <li>
-            <a className="text-gray-500 transition hover:text-gray-500/75" href="#"> Blog </a>
+            <a className="text-gray-500 transition hover:text-gray-500/75" href="/contactus"> Contact Us </a>
           </li>
         </ul>
       </nav>

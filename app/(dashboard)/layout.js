@@ -3,7 +3,7 @@ import React from 'react'
 function layout({children}) {
   return (
     <div>
-        Home
+        <button href='/'>Home</button>
         {children}
     </div>
   )
